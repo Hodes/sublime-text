@@ -1,7 +1,8 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"detect_indentation": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -48,8 +49,7 @@
 		"Vintage"
 	],
 	"scroll_past_end": false,
-	"soda_folder_icons": true,
-	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
 	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
