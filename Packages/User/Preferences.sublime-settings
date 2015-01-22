@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Gutter Color/Flatland Dark.gcfix.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
 	"detect_indentation": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -41,7 +41,8 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 11.0,
+	"font_size": 14.0,
+	// "font_face": "Monaco",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -49,7 +50,7 @@
 		"Vintage"
 	],
 	"scroll_past_end": false,
-	"theme": "Flatland Dark.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
 	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
