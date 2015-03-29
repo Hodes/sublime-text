@@ -37,18 +37,20 @@
 		"CVS",
 		".sass-cache"
 	],
+	"font_face": "Inconsolata",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 14.0,
-	// "font_face": "Monaco",
+	"font_size": 17.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"scroll_past_end": false,
 	"theme": "Seti.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
