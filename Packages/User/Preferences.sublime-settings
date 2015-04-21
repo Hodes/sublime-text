@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
 	"detect_indentation": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
