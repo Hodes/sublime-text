@@ -4,15 +4,16 @@
 	],
 	"installed_packages":
 	[
-		"AngularJS",
+		"Alignment",
+		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
-		"JavaScript & NodeJS Snippets",
+		"GitStatus",
 		"JavaScriptNext - ES6 Syntax",
 		"LESS",
+		"Material Color Scheme",
 		"Package Control",
 		"PackageResourceViewer",
-		"RailsCasts Colour Scheme",
 		"Sass",
 		"SASS Snippets",
 		"SCSS",
@@ -20,10 +21,14 @@
 		"Seti_UX",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SVN",
+		"Swig",
 		"Theme - Flatland",
+		"Theme - Primer",
 		"Theme - Soda",
-		"Theme - Sodarized"
+		"Theme - Sodarized",
+		"Zeus"
 	]
 }
