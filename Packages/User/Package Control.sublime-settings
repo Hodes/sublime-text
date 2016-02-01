@@ -1,34 +1,45 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"Alignment",
+		"Babel",
 		"BracketHighlighter",
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"GitStatus",
 		"JavaScriptNext - ES6 Syntax",
 		"LESS",
 		"Material Color Scheme",
+		"Material Theme",
 		"Package Control",
 		"PackageResourceViewer",
+		"RestructuredText Improved",
 		"Sass",
 		"SASS Snippets",
 		"SCSS",
 		"Seti_UI",
 		"Seti_UX",
 		"SideBarEnhancements",
+		"Stylus",
+		"SublimeHighlight",
 		"SublimeLinter",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
-		"SVN",
 		"Swig",
 		"Theme - Flatland",
 		"Theme - Primer",
 		"Theme - Soda",
 		"Theme - Sodarized",
-		"Zeus"
+		"Themr",
+		"TypeScript"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
 	]
 }

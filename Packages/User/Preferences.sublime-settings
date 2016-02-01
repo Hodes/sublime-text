@@ -1,7 +1,9 @@
 {
+	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Zeus/Zeus-Sublime-Text.tmTheme",
+	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
 	"detect_indentation": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -40,19 +42,21 @@
 	"font_face": "Inconsolata",
 	"font_options":
 	[
-		"subpixel_antialias"
+		"gray_antialias"
 	],
-	"font_size": 17.0,
+	"font_size": 16.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"RestructuredText",
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"scroll_past_end": false,
-	"theme": "Primer.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
 	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
