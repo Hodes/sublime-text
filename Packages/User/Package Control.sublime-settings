@@ -6,16 +6,25 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"AutoCompleteJS",
+		"AutoFileName",
 		"Babel",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
+		"GitGutter",
 		"GitStatus",
+		"Goto Usage",
+		"Handlebars",
 		"JavaScriptNext - ES6 Syntax",
 		"LESS",
+		"LogMagic",
 		"Material Color Scheme",
 		"Material Theme",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"PackageResourceViewer",
 		"RestructuredText Improved",
@@ -36,7 +45,8 @@
 		"Theme - Soda",
 		"Theme - Sodarized",
 		"Themr",
-		"TypeScript"
+		"TypeScript",
+		"WakaTime"
 	],
 	"repositories":
 	[
